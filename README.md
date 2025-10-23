@@ -438,8 +438,8 @@ except requests.exceptions.RequestException as e:
 
 ## 联系方式
 
-- 项目地址：https://github.com/yourusername/akshare-api
-- 问题反馈：https://github.com/yourusername/akshare-api/issues
+- 项目地址：https://github.com/JoshuaMaoJH/akshare-api
+- 问题反馈：https://github.com/JosuhaMaoJH/akshare-api/issues
 
 如有任何问题或建议，欢迎通过Issue与我们联系。
 
